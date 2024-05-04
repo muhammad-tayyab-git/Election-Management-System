@@ -1,0 +1,4 @@
+Tayyab,21,234543,m,phali,NA-68,tayyab,123
+Sami,20,3456,M,Ksk,NA-69,sami,123
+Shahzaib,20,7654,M,ksk,NA-70,shazi,123
+khola,18,46,rty,fghj,NA-45,khola,123

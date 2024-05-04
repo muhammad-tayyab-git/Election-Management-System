@@ -1,0 +1,10 @@
+Imran Khan,89,34567,M,Isi,NA-68,PTI,Bat
+Mariam,78,123456,F,Lha,NA-68,PMLN,Lion
+Bilawal,45,65432,M,Kar,NA-68,PPP,Teer
+Shahryar Afridi,34,76549,M,KPK,NA-69,PTI,Bat
+Hamza,65,24952,M,LHA,NA-69,PMLN,Lion
+Asifa Bhotu,35,63951,F,Kar,NA-69,PPP,teer
+Yasmin Rashid,89,654921,F,Lha,NA-70,PTI,Bat
+Shahbaz Shareef,67,654381,M,Lha,NA-70,PMLN,Lion
+Asif Zardari,90,8774830,M,Kar,NA-70,PPP,Teer
+khola,56,66,t,th,NA-45,pti,fl
